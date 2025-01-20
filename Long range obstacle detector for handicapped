@@ -1,0 +1,19 @@
+ABSTRACT 
+   The "Long Range Obstacle Detector" is a cost-effective and efficient system designed to detect obstacles over an extended range using infrared (IR) technology. This system utilizes an IR transmitter and receiver pair to detect objects based on the reflection of infrared light. Upon detecting an obstacle, the system triggers an audio-visual alert through a buzzer and an LED, making it suitable for applications in robotics, automation, and safety systems. The project demonstrates how basic electronic components can be integrated into a reliable detection circuit.
+
+INTRODUCTION 
+   Obstacle detection systems play a vital role in various domains, such as autonomous robotics, automotive safety, and industrial automation. This project focuses on creating a simple, long-range obstacle detector using infrared technology. The system comprises an IR transmitter, which emits infrared light, and an IR receiver, which detects reflected IR signals when an obstacle is present. A BC547 transistor is employed to amplify the signal from the IR receiver, triggering the LED and buzzer to provide visual and auditory alerts. Powered by a 5V DC source, this low-power system is practical for diverse applications where reliable obstacle detection is essential.
+
+ADVANTAGES
+Ease of Integration
+Enhanced Safety
+Improved Navigation
+Cost-Effective
+Low Power Consumption
+
+APPLICATIONS:
+Autonomous Vehicles                    Drones
+Industrial Automation
+Security systems
+
+
